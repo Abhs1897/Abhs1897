@@ -1,5 +1,4 @@
-# HelloWorld 
-My name is Abhishek Suryavanshi
+# <align="center">HelloWorld My name is Abhishek Suryavanshi
 
 ## About Me
 - 🔭 Final year Master's student at UCSD majoring in Machine Learning,Bachelor's in Computer Science,Diploma in Data Science and AI. 3 years of IT experience.
