@@ -1,16 +1,17 @@
-### Hi there 👋
+# HelloWorld My name is Abhishek Suryavanshi
 
-<!--
-**Abhs1897/Abhs1897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 Final year Master's student at UCSD majoring in Machine Learning,Bachelor's in Computer Science,Diploma in Data Science and AI. 3 years of IT experience.
+- 🤝 I’m currently looking for job in Machine learning.
+- 💬 Ask me about software engineering and machine learning/artificial intelligence.
+- 📫 How to reach me: asuryavanshi@ucsd.edu.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- LeetCode: [Suryavanshi_97](https://leetcode.com/Suryavanshi_97/)
+
+## Languages and Tools
+- Programming Languages: C++,Python
+- Frameworks and Libraries: Pytorch, Scikit-Learn
+
+
