@@ -9,7 +9,7 @@
 
 ## Connect with Me
 - LeetCode: [Suryavanshi_97](https://leetcode.com/Suryavanshi_97/)
-- Linkdein: [Suryavanshi19](https://www.linkedin.com/in/suryavanshi18/)
+- Linkdein: [Suryavanshi18](https://www.linkedin.com/in/suryavanshi18/)
 
 ## Languages and Tools
 - Programming Languages: C++,Python
