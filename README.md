@@ -8,7 +8,6 @@
 
 ## Connect with Me
 - 📫 How to reach me: asuryavanshi@ucsd.edu.
-- Linkdein: [Suryavanshi18](https://www.linkedin.com/in/suryavanshi18/)
 
 ## Languages and Tools
 - Programming Languages: C++,Python
